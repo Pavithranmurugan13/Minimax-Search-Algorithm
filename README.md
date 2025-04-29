@@ -1,5 +1,5 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: PAVITHRANMJ     </h3>
+<h3>Name: PAVITHRAN MJ     </h3>
 <h3>Register Number/Staff Id: 212223240112        </h3>
 <H3>Aim:</H3>
 <p>
